@@ -1,6 +1,6 @@
-# Photolog Intro
+# Photolog Server
 
-Photolog Intro Readme 페이지 입니다.
+Photolog Server Readme 페이지 입니다.
 
 
 ## Photolog 서비스소개
